@@ -9,3 +9,11 @@ Our stakeholder have found that employees are resigning and as a data analyst, n
 * Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? What about employees who have been there longer?
 
 * Are younger employees resigning due to some kind of dissatisfaction? What about older employees?
+
+### Our task:
+* Exploring the data and figuring out how to prepare it for analysis
+* Handling missing values
+* Dropping null values
+* Renaming/filtering columns
+* Aggregating the data the data
+* Performing visual analysis
