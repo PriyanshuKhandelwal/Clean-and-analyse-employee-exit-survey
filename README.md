@@ -1,4 +1,4 @@
-NOTE : If jupyter file doesn't open on github, click [here](https://nbviewer.jupyter.org/github/PriyanshuKhandelwal/Clean-and-analyse-employee-exit-survey/blob/master/Clean%20and%20analyse%20employee%20exit%20survey.ipynb)
+NOTE : If jupyter file doesn't open on github, click [here](https://nbviewer.jupyter.org/github/PriyanshuKhandelwal/Clean-and-analyse-employee-exit-survey/blob/master/Clean%20and%20analyse%20employee%20exit%20survey.ipynb){:target="_blank"}
 # Cleaning and analysing employee exit survey:
 
 
